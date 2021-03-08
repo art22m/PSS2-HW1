@@ -1,4 +1,8 @@
-# PSS2-HW1
+# Search and Count
+Programming Software System Course 
+Homework 1
+
+TA: https://github.com/l1va
 
 #### *Simpliﬁcations and assumptions:*
 
